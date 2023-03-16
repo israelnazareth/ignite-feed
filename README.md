@@ -1,6 +1,6 @@
 # 📱 Ignite Feed
 
-### Este é um projeto criado na Trilha Ignite da [Rocketseat](https://www.rocketseat.com.br/)</strong> onde foi desenvolvida uma página que simula um feed.
+### Este é um projeto criado na Trilha Ignite da [Rocketseat](https://www.rocketseat.com.br/)</strong> onde foi desenvolvida uma página que simula um feed de redes sociais onde o usuário pode publicar, curtir ou excluir um comentário.
 <br>
 
 ![capa](https://user-images.githubusercontent.com/85763987/211672055-d00e4255-1b0c-4f7d-bea5-57600fd1aa7e.png)
